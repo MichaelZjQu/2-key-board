@@ -29,3 +29,25 @@ I also:
 ![Screenshot 2025-10-03 162839.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjE2LCJwdXIiOiJibG9iX2lkIn19--870254cd168d4a5b1f736bedb96c833c9057398e/Screenshot%202025-10-03%20162839.png)
   
 
+## 10/9/2025 - Routed the pcb  
+
+I,
+- added 2 leds to my schematic
+- routed my pcb
+- added an icon
+
+to do this i had to:
+- read some tutorials including the hackpad one
+- watch some tutorials (putting icon as a footprint)
+
+next i will:
+- figure out fusion 360
+- create a case
+- figure out firmware
+
+
+
+
+![Screenshot 2025-10-09 092628.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTIxMywicHVyIjoiYmxvYl9pZCJ9fQ==--395ca9ec4d56b3b2370871d092a396e7ab90221f/Screenshot%202025-10-09%20092628.png)
+  
+
