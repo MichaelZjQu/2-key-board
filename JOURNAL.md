@@ -51,3 +51,23 @@ next i will:
 ![Screenshot 2025-10-09 092628.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTIxMywicHVyIjoiYmxvYl9pZCJ9fQ==--395ca9ec4d56b3b2370871d092a396e7ab90221f/Screenshot%202025-10-09%20092628.png)
   
 
+## 10/10/2025 - Created Case + researched parts  
+
+This time i:
+- Made the case bottom
+- Made the case top
+- Researched where I'm gonna source my stuff
+
+What went well:
+- Making the case went pretty smoothly and was pretty fun
+- Added some of my own design into the case
+
+Struggles:
+- Fusion on trackpad
+- Researching parts and stuff, idk where to get some of this stuff im gonna ask in the slack, this is where most of my time went (like 3/4 of it)
+
+
+
+![Screenshot 2025-10-10 205406.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTU0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--7a12d288a5b1919034ad00ee24190f391cdf5f54/Screenshot%202025-10-10%20205406.png)
+  
+
