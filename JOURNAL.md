@@ -71,3 +71,18 @@ Struggles:
 ![Screenshot 2025-10-10 205406.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTU0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--7a12d288a5b1919034ad00ee24190f391cdf5f54/Screenshot%202025-10-10%20205406.png)
   
 
+## 10/12/2025 - Render 3d model + complete ship reqs  
+
+In order to render the 3d model I had to:
+- find 3d models for parts that match the footprints (this took a long time cuz i dumb) and
+- import them into kicad 
+
+I also:
+- added the necessary files to github repo like
+- bom.csv (had to further research parts with newfound knowledge)
+- readme with some mgs
+- pcb files
+
+![Screenshot 2025-10-12 113650.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTkyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--c44536d37b0946c2beca1afa5d3df9855a192304/Screenshot%202025-10-12%20113650.png)
+  
+
