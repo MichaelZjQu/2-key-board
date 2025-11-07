@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **2 Button Keyboard**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/85).
-
-
 ## 10/3/2025 - Brainstorm + Research  
 
 New to hardware. I:
@@ -84,5 +80,19 @@ I also:
 - pcb files
 
 ![Screenshot 2025-10-12 113650.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTkyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--c44536d37b0946c2beca1afa5d3df9855a192304/Screenshot%202025-10-12%20113650.png)
+  
+
+## 11/7/2025 - Put it together  
+
+To do this I:
+- soldered the switches and mcu
+- 3d printed the case
+- firmware (just mapped the two keys to the two keys i needed). This actually took a really long time cuz I was looking at an incorrect pinout for the Xiao and I thought it was a firmware issue so it took a while.
+- didnt have the right screws for the case so i did a workaround using toothpicks, thumb tacks, and tape
+- added keycaps
+
+Then I tested it on Osu, it works
+
+![IMG_2485](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTE5OCwicHVyIjoiYmxvYl9pZCJ9fQ==--693e3becc4e30254b0d75fe3179b99a0274f2be2/IMG_2485.jpeg)
   
 
